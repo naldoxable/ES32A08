@@ -10,7 +10,7 @@ Arduino ESP32-WROOM library for the **ES32A08** industrial control board.
 - [Features](#features)
 - [Hardware Overview](#hardware-overview)
 - [Pin Mapping](#pin-mapping)
-- [Installation](#installation)
+- [Installation](#installation-on-arduino-ide)
 - [Quick Start](#quick-start)
 - [API Reference](#api-reference)
   - [Initialization](#initialization)
